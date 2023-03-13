@@ -1,0 +1,45 @@
+*{
+    text-align: center;
+    padding: 0px;
+    margin: 0PX;
+}
+
+.interfaz{
+    
+    list-style-type: none;
+    background-color: #fff;
+    overflow: hidden;
+    margin-top: 2px;
+    padding: 10px;
+    border: solid #ffc107 1px;
+
+
+}
+
+
+a{
+    
+    color:#007bff;
+    margin: 10px;
+    text-decoration: none;
+   
+}
+a:hover{
+    color:rgb(104, 177, 229);
+
+}
+
+input[type="text"]{
+    cursor: pointer;
+    padding: 5px;
+    margin-top: 10px;
+    border-radius: 10px;
+}
+
+div.card{
+
+    width: 40rem;
+    display: inline-block;
+
+
+}
